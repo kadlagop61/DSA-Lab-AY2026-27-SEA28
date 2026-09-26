@@ -33,7 +33,7 @@
 1. **Clone the Repository**
    ```bash
    git clone https://github.com
-   cd YOUR_REPO_NAME
+   cd DSA-Lab-AY2026-27-SEA28
    ```
 
 2. **Compile the Target Experiment (Using GCC)**
